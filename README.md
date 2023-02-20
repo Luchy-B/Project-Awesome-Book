@@ -80,7 +80,7 @@ Fullstack developer: includes both front end and Backend developer.
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://luchy-b.github.io/Capstone-Project-1/) 
+- [Live Demo Link](Coming soon) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -89,7 +89,7 @@ Fullstack developer: includes both front end and Backend developer.
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
-Git clone git@github.com:Luchy-B/Capstone-Project-1.git
+git@github.com:Luchy-B/Project-Awesome-Book.git
 
 ### Prerequisites
 
@@ -102,7 +102,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-git@github.com:Luchy-B/Capstone-Project-1.git
+git@github.com:Luchy-B/Project-Awesome-Book.git
 
 ### Usage
 
