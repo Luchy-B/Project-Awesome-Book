@@ -1,11 +1,22 @@
+# Awesome books: webiste project
+
 <a name="readme-top"></a>
+
+<div align="center">
+  <br/>
+
+  <h3><b>Awesome books</b></h3>
+
+</div>
 
 
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -20,49 +31,111 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Awesome books: webiste project
- <a name="about-project"></a>
 
+# 📖 [Awesome Book] <a name="about-project"></a>
 
-**Awesome books** is a project with the following objectives;
-- Understand how to work with objects in javascript and pasring them in html
-- Understanding how to refactor code.
-## 🛠 Built With <a name="built-with"></a>
-Html
+**Awesome books** is a project with experiments how to work with objects in javascript and parsing them in html and how to create modules in projects
+
+## 🛠 Built With html and css<a name="built-with"></a>
+HTML
+CSS
 Javascript
+
+### Tech Stack <a name="tech-stack"></a>
+
+Fullstack developer: includes both front end and Backend developer.
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
+
+
+### Key Features <a name="key-features"></a>
+
+- **[html]**
+- **[Linters]**
+- **[Node]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**Link to online version of My Portfolio**
-coming soon:
+
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+
+- [Live Demo Link](https://luchy-b.github.io/Capstone-Project-1/) 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
+
 To get a local copy up and running, follow these steps.
-Git clone https://github.com/alexiscyber14/awesomebooks.git
+Git clone git@github.com:Luchy-B/Capstone-Project-1.git
+
 ### Prerequisites
 
 In order to run this project you need:
- git clone then open in your live server
+
+- install npm, node
+- Install code editor
 
 ### Setup
 
 Clone this repository to your desired folder:
-  cd my-folder
-  git clone https://github.com/alexiscyber14/awesomebooks.git
 
+git@github.com:Luchy-B/Capstone-Project-1.git
 
+### Usage
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+To run the project, execute the following command:
+
+  live server
+
+### Run tests
+
+To run tests, run the following command:
+
+  - Open a Live Serve on your Code Editor to view this project.
+
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Authors**
+👤 **Author1**
 
-- https://github.com/alexiscyber14/awesomebooks
-
-- https://github.com/Luchy-B
+- GitHub: [@githubhandle](https://github.com/Luchy-B)
+- Twitter: [@twitterhandle](https://twitter.com/oluchi)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/blessing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **About Me page**
+- [ ] **Contact Form**
+- [ ] **Project links**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -70,31 +143,29 @@ Contributions, issues, and feature requests are welcome!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## KEY FEATURES
-- Can add a book
-- Can delete a book
-- Can store bookm list in local storage
-
-## FUTURE FEATURES
-- Can search for book
-- Css styling
-- Navigation
-
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project you can give it a ⭐️.
+
+If you like this project, kindly show your support by leaving a comment on how to improve.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would linke to thank <a href="https://github.com/Luchy-B">Blessing</a> for her contribution on this project.
+
+I would like to thank Microverse for Guiding me through this project.
+
+I acknowledge the Author of my design; Cindy Shin in Behance. The master behind the design I created
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📝 License <a name="license"></a>
+<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
-<p>This project is <a href="/LICENSE.md">MIT</a> licensed</p>
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
